@@ -1,4 +1,4 @@
-# Awesome Kurdish [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Kurdish
 
 > A curated list of resources about the Kurdish language, culture, science, and technology.
 
