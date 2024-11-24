@@ -1,51 +1,73 @@
-# Awesome Kurdish
+# Awesome Kurdish [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of resources about the Kurdish language, culture, science, and technology.
+> A curated list of awesome resources for the Kurdish language, including tools, libraries, datasets, and works in the computer science field to help the academic advancement of the language.
+
+Kurdish is an Indo-European language spoken by the Kurdish people. This repository aims to gather significant resources related to the Kurdish language in the fields of computer science, linguistics, and technology.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Language Resources](#language-resources)
-  - [Dictionaries](#dictionaries)
+  - [Dictionaries and Corpora](#dictionaries-and-corpora)
+  - [Datasets](#datasets)
   - [Language Learning](#language-learning)
-- [Science and Technology](#science-and-technology)
-  - [Computer Science](#computer-science)
-  - [Mathematics](#mathematics)
-  - [Physics](#physics)
-- [Culture and History](#culture-and-history)
-- [Literature](#literature)
-- [Organizations and Institutions](#organizations-and-institutions)
-- [Online Communities](#online-communities)
-
-## Introduction
-
-Welcome to **Awesome Kurdish**, a collection of resources dedicated to the Kurdish language and its contributions to various fields of science and technology. Whether you're a learner, educator, or researcher, this repository aims to provide valuable information and tools to support your journey.
+- [Natural Language Processing](#natural-language-processing)
+  - [Libraries and Tools](#libraries-and-tools)
+  - [Machine Translation](#machine-translation)
+  - [Speech Recognition](#speech-recognition)
+  - [Text-to-Speech](#text-to-speech)
+- [Academic Research](#academic-research)
+- [Programming Resources](#programming-resources)
+  - [Localization Projects](#localization-projects)
+- [Communities and Organizations](#communities-and-organizations)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Language Resources
 
-### Dictionaries
+### Dictionaries and Corpora
 
+*(This section is intentionally left empty.)*
+
+### Datasets
+
+*(This section is intentionally left empty.)*
 
 ### Language Learning
 
+*(This section is intentionally left empty.)*
 
-## Science and Technology
+## Natural Language Processing
 
-### Computer Science
+### Libraries and Tools
 
+*(This section is intentionally left empty.)*
 
-### Mathematics
+### Machine Translation
 
-### Physics
+*(This section is intentionally left empty.)*
 
+### Speech Recognition
 
-## Culture and History
+*(This section is intentionally left empty.)*
 
+### Text-to-Speech
 
-## Literature
+*(This section is intentionally left empty.)*
 
+## Academic Research
 
-## Organizations and Institutions
+*(This section is intentionally left empty.)*
 
+## Programming Resources
 
-## Online Communities
+### Localization Projects
+
+*(This section is intentionally left empty.)*
+
+## Communities and Organizations
+
+*(This section is intentionally left empty.)*
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a pull request or open an issue to add new resources or suggest improvements.
