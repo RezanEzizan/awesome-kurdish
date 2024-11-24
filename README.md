@@ -1,4 +1,4 @@
-# Awesome Kurdish [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Kurdish 
 
 > A curated list of awesome resources for the Kurdish language, including tools, libraries, datasets, and works in the computer science field to help the academic advancement of the language.
 
