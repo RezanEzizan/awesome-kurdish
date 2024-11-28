@@ -40,7 +40,8 @@ Kurdish is an Indo-European language spoken by the Kurdish people. This reposito
 
 ### Libraries and Tools
 
-*(This section is intentionally left empty.)*
+- [Character Convertor](https://github.com/0xdolan/kurdish) - Kurdish Language Library for converting characters and digits in Persian, English and Arabic to Kurdish and vice versa.
+- [KurdishHunspell](https://github.com/sinaahmadi/KurdishHunspell) - A morphological analyzer and spell checker for Kurdish in Hunspell
 
 ### Machine Translation
 
@@ -61,6 +62,7 @@ Kurdish is an Indo-European language spoken by the Kurdish people. This reposito
 ## Programming Resources
 
 ### Localization Projects
+- [Flutter Kurdish Localization](https://github.com/aminsamad/flutter_kurdish_localization) -  Localization support for Central Kurdish Branch Sorani (Kurdish: سۆرانی ,Soranî‎)
 
 *(This section is intentionally left empty.)*
 
