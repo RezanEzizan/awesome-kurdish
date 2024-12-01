@@ -30,7 +30,7 @@ Kurdish is an Indo-European language spoken by the Kurdish people. This reposito
 
 ### Datasets
 
-*(This section is intentionally left empty.)*
+- [Bibliotheque_Numeric_Kurdi](https://bnk.institutkurde.org/catalogue/result.php?rech=liste) - Digitalization project of Kurdish Instute of Paris
 
 ### Language Learning
 
